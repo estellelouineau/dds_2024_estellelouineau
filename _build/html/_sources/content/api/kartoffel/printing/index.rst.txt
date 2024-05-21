@@ -1,0 +1,22 @@
+:py:mod:`kartoffel.printing`
+============================
+
+.. py:module:: kartoffel.printing
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   kartoffel.printing.hello_world
+
+
+
+.. py:function:: hello_world()
+
+

@@ -1,0 +1,43 @@
+:py:mod:`kartoffel`
+===================
+
+.. py:module:: kartoffel
+
+.. autoapi-nested-parse::
+
+   kartoffel.
+
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   printing/index.rst
+
+
+Package Contents
+----------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   kartoffel.hello_world
+
+
+
+Attributes
+~~~~~~~~~~
+
+.. autoapisummary::
+
+   kartoffel.__version__
+
+
+
+
